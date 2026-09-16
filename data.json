@@ -57,7 +57,7 @@
           "logo_alt": "Aviatrix"
         },
         {
-          "link": "",
+          "link": "/play/",
           "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
           "name": "Wild spin",
           "Name": "Wild spin",
@@ -87,7 +87,7 @@
           "logo_alt": "Welcome Bonus"
         },
         {
-          "link": "",
+          "link": "/play/",
           "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
           "name": "ROYAL STORTING DEKKING 10% TOT €150",
           "Name": "ROYAL STORTING DEKKING 10% TOT €150",
@@ -303,7 +303,7 @@
       "logo_alt": "Aviatrix"
     },
     {
-      "link": "",
+      "link": "/play/",
       "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
       "name": "Wild spin",
       "Name": "Wild spin",
@@ -333,7 +333,7 @@
       "logo_alt": "Welcome Bonus"
     },
     {
-      "link": "",
+      "link": "/play/",
       "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
       "name": "ROYAL STORTING DEKKING 10% TOT €150",
       "Name": "ROYAL STORTING DEKKING 10% TOT €150",
@@ -363,8 +363,8 @@
       "question": "Moet ik een app downloaden om mobiel te spelen?"
     }
   ],
-  "_generated_at": "2026-09-16T09:47:41.665Z",
+  "_generated_at": "2026-09-16T10:17:12.520Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-16T09:47:42.283Z",
-  "_deploy_trigger": "2ppxx"
+  "_last_deploy": "2026-09-16T10:17:13.258Z",
+  "_deploy_trigger": "ilqe2h"
 }
